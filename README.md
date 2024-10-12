@@ -36,12 +36,12 @@ A simple calculator application that respects your privacy. It performs calculat
 
 4. Build the application:
    ```
-   go build
+   go build gocalc.go
    ```
 
 5. Run the calculator:
    ```
-   ./calc-no-phone-home
+   ./gocalc
    ```
 
 ## Usage
