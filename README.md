@@ -1,5 +1,7 @@
 # A calc that doesn't phone home
 
+![Screenshot](screenshot.png)
+
 A simple calculator application that respects your privacy. It performs calculations locally without sending any data over the network.
 
 ## Features
