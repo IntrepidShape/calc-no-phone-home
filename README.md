@@ -23,16 +23,17 @@ A simple calculator application that respects your privacy. It performs calculat
 
 1. Install Go from [https://golang.org/](https://golang.org/)
 
-2. Install Fyne:
-   ```
-   go get fyne.io/fyne/v2
-   ```
-
-3. Clone this repository:
+2. Clone this repository:
    ```
    git clone https://github.com/IntrepidShape/calc-no-phone-home.git
    cd calc-no-phone-home
    ```
+
+3. Install Fyne:
+   ```
+   go get fyne.io/fyne/v2
+   ```
+
 
 4. Build the application:
    ```
